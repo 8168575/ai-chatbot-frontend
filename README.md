@@ -12,7 +12,7 @@ npm run dev
 
 Environment variable:
 
-- `VITE_BACKEND_URI` for the deployed backend API base, for example `https://your-render-backend.onrender.com/api`
+- `VITE_BACKEND_URI` for the deployed backend API base, for example `https://ai-chatbot-backend-zgi1.onrender.com/api`
 
 ## Vercel
 

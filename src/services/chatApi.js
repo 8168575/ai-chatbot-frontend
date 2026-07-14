@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_BASE_URL = import.meta.env.VITE_BACKEND_URI || "http://localhost:3230/api";
+const API_BASE_URL =
+  import.meta.env.VITE_BACKEND_URI || "https://ai-chatbot-backend-zgi1.onrender.com/api";
 
 /**
  * Sends a message + conversation history to the backend and
