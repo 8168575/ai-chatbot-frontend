@@ -1,6 +1,8 @@
 # AI-CHATBOT-FRONTEND
 
-Vite + React frontend for the CampusAI chatbot.
+Live frontend: https://ai-chatbot-frontend-roan-psi.vercel.app/
+
+Vite + React frontend for the HFM Campus AI chatbot.
 
 ## Local development
 
